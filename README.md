@@ -1,7 +1,7 @@
 # ipchanger 
 this script will change your ip address automatically with tor,tornet and firefox
 # installation
-sudo apt install tor && sudo apt install tornet
+sudo apt install tor && sudo pip3 install tornet
 # Usage
 first, you need to configure your firefox settings first like this
 ![ff](https://github.com/user-attachments/assets/7427d668-a8be-4c4f-a7dc-886bab75f29a)
